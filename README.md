@@ -1,4 +1,4 @@
-<img width="1106" height="231" alt="image" src="https://github.com/user-attachments/assets/8d25dbd2-0011-4ab7-a785-b40e40e5775c" /># Ex-01-Linux-Commands
+# Ex-01-Linux-Commands
 
 
 ## Aim:
